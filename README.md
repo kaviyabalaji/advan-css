@@ -347,4 +347,6 @@ footer p {
 ```
 #output
 ![image](https://github.com/kaviyabalaji/advan-css/blob/main/Screenshot%202024-07-08%20103412.png)
+![image](https://github.com/kaviyabalaji/advan-css/blob/main/Screenshot%202024-07-08%20103419.png)
+
 
